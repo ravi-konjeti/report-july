@@ -11,3 +11,5 @@ grade:
     grade: E+
   - subject: Computer:
     grade: E+
+  - subject: physics:
+    grade: B
