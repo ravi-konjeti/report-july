@@ -4,6 +4,7 @@ city: New York
 is_student: true
 grade:
   - subject: Math
+<<<<<<< HEAD
     grade: Z
   - subject: English
     grade: Z
@@ -11,5 +12,14 @@ grade:
     grade: Z+
   - subject: Computer:
     grade: Z+
+=======
+    grade: G
+  - subject: English
+    grade: G
+  - subject: Science
+    grade: G+
+  - subject: Computer:
+    grade: G+
+>>>>>>> 9ad0b88e7c428d1290c8690ae1ce663eff2a17dc
   - subject: physics:
     grade: Z
